@@ -1,0 +1,4 @@
+BIG DATA WORKSHOP,21st December 2019,CSE Department,Mr. Renu Jain,Dhvani Auditorium
+Data Science WORKSHOP,10th August 2019,ISE Department,Mr. Shravan Kumar,Ise Lab
+MIT App Inventor WORKSHOP,15th October 2019,CSE Department,Mr. Aniket Mishra,Civil AV Hall
+Java,20/10/2019,CSE,kiran sir,Mech Av Hall

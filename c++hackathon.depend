@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571563426 source:/home/lonestar/Desktop/c++/c++hackathon/main.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+
+1571670849 source:c:\users\lenovo\desktop\c++ hackathon\main.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
